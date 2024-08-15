@@ -111,15 +111,46 @@
 
    ![image](https://github.com/user-attachments/assets/563e0e24-aa21-4670-b704-5b80a8ac6808)
 
-#Extras
+# Extras
 
 ## Actividad 1
 
-1. Efectuando cambios:
+1. Efectuando cambios y guardandolos para que pasen al staging-area:
 
     ![image](https://github.com/user-attachments/assets/fd8bb291-159f-413c-8b3f-0a417601e7d5)
 
-2. 
+2. Aplicar git add
+
+   ![image](https://github.com/user-attachments/assets/48495f6a-5700-49f3-9bcd-6ed36514a0f4)
+
+3. Para quitar los cambios del staging-area, es necesario usar el comando git restore --staged donde se señala que solamente se debe devolver los cambios unicamente en staging-area
+
+   ![image](https://github.com/user-attachments/assets/9a7434cc-7429-4e49-a5e2-59f0e970a33b)
+
+4. El IDE marca que los cambios ya no están en el staging-area
+
+   ![image](https://github.com/user-attachments/assets/d53a0963-d12b-47ea-b2e0-fdbb8be24d4b)
+
+## Actividad 2
+
+1. Para tal fin se usaría el comando git reset --hard el cual aplica los cambios hasta el area de trabajo.
+
+    ![image](https://github.com/user-attachments/assets/ac50fa32-47f5-4452-bc8e-3f2a3db622bd)
+  
+2. se visualiza el estado de los commits anteriores
+
+    ![image](https://github.com/user-attachments/assets/552cc930-f04b-4bc9-989c-e5ead3e112ea)
+
+   
+3. luego de eso, se aplica un git push con --force para aplicar esos cambios a la rama remota
+
+   ![image](https://github.com/user-attachments/assets/69fc5e80-32d7-43c5-934f-95c0fd7c5524)
+
+
+    
+
+
+
 
 
 
