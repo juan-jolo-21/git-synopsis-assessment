@@ -78,9 +78,50 @@
 
 1. Cambios hechos en rama-a antes de aplicar git stash
 
-    ![image](https://github.com/user-attachments/assets/3b0f4094-4f3c-4434-9799-ef758b515a6f)
+    ![image](https://github.com/user-attachments/assets/0f8ecea9-e7dd-40e8-88d5-e4cca6173037)
+
+2. Aplicando git stash en el archivo en rama-a antes de cambiar a rama-b
+
+   ![image](https://github.com/user-attachments/assets/6bf0b209-b7d0-40d6-a96b-a86a8b1317ee)
+
+3. Cambiando a rama-b
+
+   ![image](https://github.com/user-attachments/assets/a628d893-ce23-46e0-aa5a-6a8dcd75dd61)
+
+4. Cambios hechos en rama-b antes de aplicar git stash
+
+   ![image](https://github.com/user-attachments/assets/271a1fdc-3312-4f4f-87ca-4b3c411e2994)
+
+5. Aplicando git stash en el archivo en rama-b
+
+   ![image](https://github.com/user-attachments/assets/7bfea9e4-1a4d-4c92-a94e-2faea0e38b33)
+
+6. Ver la lista de cambios sin commit:
+
+    ![image](https://github.com/user-attachments/assets/96302c41-4fcd-4ab5-a35b-3e8a314fb920)
+
+## Actividad 7
+
+1. Primero volver a la rama-a
+
+    ![image](https://github.com/user-attachments/assets/30790aed-8379-423b-9d6f-df7cef0e2ba5)
+
+
+2. Para declarar una versión de mi proyecto en cuestión se usará git tag, luego de declarar la versión en local se procede a subir esa declaración al repositorio remoto
+
+   ![image](https://github.com/user-attachments/assets/563e0e24-aa21-4670-b704-5b80a8ac6808)
+
+#Extras
+
+## Actividad 1
+
+1. Efectuando cambios:
+
+    ![image](https://github.com/user-attachments/assets/fd8bb291-159f-413c-8b3f-0a417601e7d5)
 
 2. 
+
+
 
 
 
